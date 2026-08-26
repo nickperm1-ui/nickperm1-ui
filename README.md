@@ -1,16 +1,19 @@
-## Hi there 👋
+# Nick Permanian
 
-<!--
-**nickperm1-ui/nickperm1-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build reliable developer tools, defensive automation, and open-source infrastructure. My current focus is configuration safety, testable backend systems, and energy-efficiency software.
 
-Here are some ideas to get you started:
+## Open-source work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Tikka indexer startup validation** — prepared a tested implementation for [crackedstudio/tikka#1349](https://github.com/crackedstudio/tikka/issues/1349), covering typed environment validation, Stellar contract ID checks, documentation, and focused tests. Stellar Drips Wave application pending maintainer review.
+- **RustAcademy environment coercion** — investigating startup validation for [BlockDash-Studios/RustAcademy#573](https://github.com/BlockDash-Studios/RustAcademy/issues/573).
+
+## Working principles
+
+- Reproduce first; claim only what the evidence supports.
+- Keep changes scoped, documented, and covered by focused tests.
+- Perform security research only in local environments or under explicit published authorization.
+- Treat possible rewards as zero until work is accepted and payable.
+
+## Current stack
+
+TypeScript · Node.js · NestJS · Python · SQLite · automated testing
